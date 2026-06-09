@@ -2,16 +2,23 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Soham%20Sidral&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Analyst%20%7C%20Threat%20Detection%20%7C%20Network%20Security&descAlignY=58&descSize=18)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Soham%20Sidral&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20Operations%20%7C%20Threat%20Detection%20%7C%20Network%20Security&descAlignY=58&descSize=17" width="100%" />
+</p>
 
----
+
+<!-- ============================= -->
+<!--          TYPING SECTION       -->
+<!-- ============================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Detect.+Investigate.+Defend.;Think+Like+an+Attacker.+Act+Like+a+Defender.;Blue+Team.+Sharp+Mind." />
+</p>
 
 <!-- ============================= -->
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm Soham Sidral 👋  
-**Turning logs into insights, alerts into investigations, and networks into secure systems.**
 
 ---
 
