@@ -11,7 +11,7 @@
 <!-- ============================= -->
 
 # Hi, I'm Soham Sidral 👋  
-**Cybersecurity learner focused on SOC operations, threat detection, log analysis, and network security.**
+**Turning logs into insights, alerts into investigations, and networks into secure systems.**
 
 ---
 
