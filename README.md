@@ -82,15 +82,15 @@ My focus is on building practical SOC and security monitoring skills through han
 
 ---
 
-### 🛡️ [Microsoft Sentinel Ransomware Detection & Monitoring Lab](https://github.com/sohamsidral/sentinel-ransomware-detection-monitoring-lab)
+### 🔐 [Microsoft Sentinel Ransomware Detection & Response Lab](https://github.com/sohamsidral/sentinel-ransomware-detection-response-lab)
 
-Practical blue team lab focused on detecting and monitoring ransomware-like behavior using **Microsoft Sentinel, KQL, Windows Security Events, suspicious activity monitoring, incident investigation, and MITRE ATT&CK mapping**.
+Practical blue team lab focused on detecting, investigating, and responding to ransomware-like behavior using **Microsoft Sentinel, KQL, Windows Security Events, analytics rules, automation rules, incident investigation, initial response, and MITRE ATT&CK mapping**.
 
-🔗 [View Project]([https://github.com/sohamsidral/sentinel-ransomware-detection-monitoring-lab](https://github.com/sohamsidral/sentinel-ransomware-detection-response-lab))
+🔗 [View Project](https://github.com/sohamsidral/sentinel-ransomware-detection-response-lab)
 
 ---
 
-### 🔐 [Microsoft Sentinel SOC Lab - Brute Force Detection](https://github.com/sohamsidral/sentinel-brute-force-detection-lab)  
+### 🔐 [Microsoft Sentinel SOC Lab - Brute Force Detection](https://github.com/sohamsidral/sentinel-brute-force-detection-lab)
 
 Practical blue team lab focused on detecting multiple failed Windows login attempts using **Microsoft Sentinel, KQL, Windows Security Events, analytics rules, incident investigation, and MITRE ATT&CK mapping**.
 
